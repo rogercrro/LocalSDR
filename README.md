@@ -1,4 +1,6 @@
 # LocalSDR
+Autor: Roger Cruz Roura
+
 Context: Simular la instal·lació d’una antena SDR (software defined radio) a l’institut per captar i analitzar senyals de ràdio a través de un programa per Internet i permet escoltar diferents freqüències.
 
 Abast:L’objectiu del projecte és simular la substitució d’un sistema de ràdio tradicional per un sistema basat en software defined radio (SDR) a l’institut, per entendre com aquesta tecnologia pot substituir el maquinari físic amb programar.

@@ -1,0 +1,32 @@
+Muntatge i manteniment d'equips
+- El projecte requereix identificar components, comprendre la connexió física entre l’antena i el dispositiu SDR, i simular el muntatge i manteniment del sistema. També implica instal·lar el programari necessari.
+
+Aplicacions ofimàtiques
+- Serveix per elaborar documents, informes, presentacions, fulls de càlcul amb material i costos, i per organitzar la informació del projecte.
+
+Sistemes operatius monolloc
+- Cal instal·lar i configurar el sistema operatiu on funcionarà el receptor SDR, entenent les diferències entre sistemes lliures i propietaris.
+
+Sistemes operatius en xarxa
+- El projecte requereix integrar el servidor SDR dins la xarxa, gestionar recursos compartits i entendre la comunicació entre equips.
+
+Xarxes locals
+- És necessari planificar l’adreçament IP, la connectivitat del sistema SDR, resoldre possibles incidències i assegurar que la xarxa funcioni de manera estable.
+
+Seguretat informàtica
+- Inclou protegir l’accés a la pàgina SDR, gestionar permisos, evitar vulnerabilitats, fer còpies de seguretat i tenir en compte la legislació relacionada amb les comunicacions.
+
+Serveis de xarxa
+- El projecte utilitza serveis com DNS, servidor web, redirecció de ports i accés remot per permetre l’ús del receptor des d’Internet.
+
+Aplicacions web
+- S’ha creat una pàgina web per presentar el projecte i permetre l’accés al receptor SDR, aplicant coneixements d’HTML i disseny senzill.
+
+Itinerari personal per a l'ocupabilitat I i II
+- Ajuda a treballar organització, gestió del temps, comunicació i competències professionals aplicades al desenvolupament d’un projecte real.
+
+Digitalització aplicada als sectors productius
+- El projecte mostra com una tecnologia digitalitzada pot substituir hardware tradicional i millorar processos, reflexionant sobre com s’aplica en entorns professionals.
+
+Sostenibilitat aplicada al sistema productiu
+- Permet analitzar l’impacte ambiental de la instal·lació, comparant l’ús de hardware minimalista (SDR) amb sistemes tradicionals més intensius en recursos.
